@@ -1,6 +1,17 @@
 {
   "custom-field": "Post",
   "custom-object": {
-    "custom-line": "title"
-  }
+    "custom-line": "Post"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "id"
+    },
+    {
+      "custom-list-item": "title"
+    },
+    {
+      "custom-list-item": "about"
+    }
+  ]
 }
