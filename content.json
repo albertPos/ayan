@@ -1,1 +1,6 @@
-{}
+{
+  "custom-field": "Post",
+  "custom-object": {
+    "custom-line": "title"
+  }
+}
